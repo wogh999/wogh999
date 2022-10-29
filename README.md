@@ -59,5 +59,5 @@
 2. ✍1학기에 배운 내용 복습
 
 ## Git Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonNa&show_icons=true&theme=vue)](https://github.com/younghoonNa/github-readme-stats)
+
 [![Jae Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogh999&show_icons=true&theme=vue)](https://github.com/wogh999/github-readme-stats)
