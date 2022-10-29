@@ -59,7 +59,7 @@
 2. ✍1학기에 배운 내용 복습
 
 
-## Ba
+## Back Joon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=321wogh)](https://solved.ac/321wogh/)
 
 ## Git Status
