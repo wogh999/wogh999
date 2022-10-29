@@ -17,6 +17,7 @@
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/C-3DDC84.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-F7DF1E.svg?&style=for-the-badge&logo=C++&logoColor=white)
+![R](https://img.shields.io/badge/R-1572B6.svg?&style=for-the-badge&logo=R&logoColor=white)
 ***
 ## 📖2019 수강 과목 (전공)
 |번호|과목명|
