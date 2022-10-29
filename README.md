@@ -58,4 +58,3 @@
 1. 🎫하계 방학 중 컴퓨터활용능력 1급 취득
 2. ✍1학기에 배운 내용 복습
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
