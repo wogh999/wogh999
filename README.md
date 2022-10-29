@@ -60,4 +60,4 @@
 
 ## Git Status
 
-[![Jae Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogh999&show_icons=true&theme=vue)](https://github.com/wogh999/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogh999&show_icons=true&theme=vue)](https://github.com/wogh999/github-readme-stats)
