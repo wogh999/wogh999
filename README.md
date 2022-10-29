@@ -60,7 +60,7 @@
 
 
 ## 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=321wogh)](https://solved.ac/321wogh/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=321wogh@naver.com)](https://solved.ac/321wogh@naver.com/)
 ## Git Status
 
 [![Jae Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogh999&show_icons=true&theme=vue)](https://github.com/wogh999/github-readme-stats)
