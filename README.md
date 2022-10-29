@@ -13,11 +13,10 @@
 - **Email** : 321wogh@naver.com
 ***
 ## ⚙사용 가능 언어
-* ![로고명](https://img.shields.io/badge/Python-blue.svg?&style=for-the-badge&logo=Python&logoColor=blue)
-* C
-* C++
-* JAVA
-* R
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/C-3DDC84.svg?&style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-F7DF1E.svg?&style=for-the-badge&logo=C++&logoColor=white)
 ***
 ## 📖2019 수강 과목 (전공)
 |번호|과목명|
