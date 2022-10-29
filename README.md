@@ -13,7 +13,7 @@
 - **Email** : 321wogh@naver.com
 ***
 ## ⚙사용 가능 언어
-* PYTHON
+* ![로고명](https://img.shields.io/badge/Python-blue.svg?&style=for-the-badge&logo=Python&logoColor=blue)
 * C
 * C++
 * JAVA
