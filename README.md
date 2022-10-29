@@ -58,5 +58,6 @@
 1. 🎫하계 방학 중 컴퓨터활용능력 1급 취득
 2. ✍1학기에 배운 내용 복습
 
-##
-[![Jae Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogh999)](https://github.com/wogh999/github-readme-stats)
+## Git Status
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghoonNa&show_icons=true&theme=vue)](https://github.com/younghoonNa/github-readme-stats)
+[![Jae Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=wogh999&show_icons=true&theme=vue)](https://github.com/wogh999/github-readme-stats)
