@@ -62,9 +62,6 @@
 2. 2022 국방 AI 경진대회 본선진출 특별상(4등)
 
 ***
-## ⌚올해 목표
-
-
 ## Back Joon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=321wogh)](https://solved.ac/321wogh/)
 ---
