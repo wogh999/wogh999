@@ -1,6 +1,8 @@
-![header][https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=LEE%20JAE%20HO&section=header&reversal=false&textBg=false&fontColor=0,1,2,3,4,5&fontAlign=50&animation=fadeIn]
+<div align = 'center'>
+  
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=LEE%20JAE%20HO&section=header&reversal=false&textBg=false&fontColor=0,1,2,3,4,5&fontAlign=50&animation=fadeIn)
 
-# 2022 포트폴리오
+</div>
 
 ## 👨🏻‍🎓Profile
 - **이름** : 이재호 <br>
@@ -13,11 +15,16 @@
 ***
 ## ⚙사용 가능 언어
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+<!--
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/C-3DDC84.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)</a>&nbsp;
 ![R](https://img.shields.io/badge/R-1572B6.svg?&style=for-the-badge&logo=R&logoColor=white)
 ***
+-->
+
+
+<!--
 ## 📖2019 수강 과목 (전공)
 |번호|과목명|
 |:---:|:---:|
@@ -47,6 +54,7 @@
 |5|스프트웨어 특강2 |
 
 ***
+-->
 ## ✨2022 교내 활동
 1. 🎓2022년도 교내 학술동아리 멀티플렉스 부회장
 2. 🎓2022년도 빅데이터 학생회(라온) 복지부원
