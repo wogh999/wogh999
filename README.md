@@ -10,8 +10,10 @@
 - **소속** : <br>
   - 전공 : 빅데이터 <br>
   - 부전공 : 콘텐츠IT <br>
-  - 한림대학교 3학년 재학중
-- **Email** : 321wogh@naver.com
+  - 한림대학교 4학년 재학중
+  - GPA: 4.16
+  - MAJOR GPA: 4.35
+- **Email** : 20wogh@gmail.com
 ***
 ## ⚙사용 가능 언어
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
