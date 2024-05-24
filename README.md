@@ -17,6 +17,7 @@
 ***
 ## ⚙사용 가능 언어
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
 <!--
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/C-3DDC84.svg?&style=for-the-badge&logo=C&logoColor=white)
