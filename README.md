@@ -11,8 +11,8 @@
   - 전공 : 빅데이터 <br>
   - 부전공 : 콘텐츠IT <br>
   - 한림대학교 4학년 재학중
-  - GPA: 4.16
-  - MAJOR GPA: 4.35
+  - GPA: 4.21
+  - MAJOR GPA: 4.37
 - **Email** : 20wogh@gmail.com
 ***
 ## ⚙사용 가능 언어
