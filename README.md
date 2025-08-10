@@ -6,7 +6,7 @@
 
 ## 👨🏻‍🎓 About Me
 - **Name**: Jaeho Lee  
-- **Affiliation**: Integrated Master’s & Ph.D. Program, Korea University  
+- **Affiliation**: Integrated Master’s & Ph.D. Program, Korea University  (2025.09 ~ )
 - **Email**: 20wogh@gmail.com  
 
 ---
