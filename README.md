@@ -6,7 +6,7 @@
 
 ## 👨🏻‍🎓 About Me
 - **Name**: Jaeho Lee  
-- **Affiliation**: Integrated Master’s & Ph.D. Program, Korea University  (2025.09 ~ )
+- **Affiliation**: Integrated Master’s & Ph.D. Program, Korea University · **HVCL** (2025.09 ~ )  
 - **Email**: 20wogh@gmail.com  
 
 ---
@@ -25,7 +25,7 @@
 
 ## 🏆 Competitions
 - **2023** – AI Competition (SW-Centered University) · **President’s Award** *(3rd Place)*
-- **2022** – AI Competition (SW-Centered University) · **Encouragement Award*
+- **2022** – AI Competition (SW-Centered University) · **Encouragement Award**  
 - **2022** – National Defense AI Competition · **Special Award** *(4th Place)*
 
 ---
