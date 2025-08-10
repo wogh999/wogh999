@@ -4,8 +4,16 @@
 
 </div>
 
-## 📩 Contact
+## 👨🏻‍🎓 About Me
+- **Name**: Jaeho Lee  
+- **Affiliation**: Integrated Master’s & Ph.D. Program, Korea University  
 - **Email**: 20wogh@gmail.com  
+
+---
+
+## 💡 Interests
+- Computer Vision  
+- Image Processing  
 
 ---
 
